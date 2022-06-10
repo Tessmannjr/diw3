@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+.menu {
+    position: fixed;
+    z-index: 999;
+}
+
+.bgdiv {
+    background-image: url('/Atividade2/images/fundodiv.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 150px;
+    padding-bottom: 100px;
+
+}
+
+.titulo {
+    font-size: 70px;
+    font-weight: bold;
+}
+
+.subtitulo {
+    font-size: 50px;
+}
+
+.botao {
+    background-color: #f11667;
+}
