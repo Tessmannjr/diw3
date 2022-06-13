@@ -30,3 +30,11 @@
 .botao {
     background-color: #f11667;
 }
+
+.conflink{
+    color: #565656;
+}
+
+.conflink:hover{
+    color: white;
+}
